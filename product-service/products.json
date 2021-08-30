@@ -1,0 +1,18 @@
+[
+    {
+        "id": "7567ec4b-b10c-48c5-9345-fc73c48a80aa",
+        "type": "Tire",
+        "title": "TOYO 255/55 R18",
+        "description": "Racing tires especially effective for dry tracks.",
+        "image": "https://www.toyotire.ru/img-cache/uploads-image-15567-png-crop-0x450q75.png",
+        "price": 70
+    },
+    {
+        "id": "7567ec4b-b10c-48c5-9345-fc73c48a80a0",
+        "type": "Air filter",
+        "title": "CTS Turbo 89mm",
+        "description": "Zero resistance air filter",
+        "image": "https://streetunit.ru/wa-data/public/shop/products/50/14/1450/images/10728/10728.970.jpg",
+        "price": 30
+    }
+]
